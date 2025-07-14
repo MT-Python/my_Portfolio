@@ -233,4 +233,8 @@ nav .right a span {
     filter: brightness(0.9);
 }
 
+footer {
+    text-align: center;
+    padding: 20px;
+}
 
